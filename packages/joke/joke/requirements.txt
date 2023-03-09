@@ -1,1 +1,2 @@
-pyjokes==0.6.0 
+discord-webhook~=0.16.0
+requests~=2.27.1
